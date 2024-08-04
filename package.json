@@ -1,0 +1,15 @@
+{
+  "name": "7.3.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "playwright": "^1.45.3"
+  }
+}
